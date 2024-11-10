@@ -1,1 +1,14 @@
-.
+local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Orion/main/source'))()
+
+local Window = OrionLib:MakeWindow({Name = "Punch"})
+
+local Tab = Window:MakeTab({
+  Name = "Tp",
+  Icon = "rbxassetid://4483345998"
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-1349, 101, 2375)))
+end
+})

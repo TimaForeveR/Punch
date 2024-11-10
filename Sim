@@ -15,54 +15,54 @@ end
 
 Tab:AddButton({
   Name = "Zone 2",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-2198, 101, 2484)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 3",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-2995, 101, 2483)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 4",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-4099, 101, 2482)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 5",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-4848, 101, 2485)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 6",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-6099, 101, 2484)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 7",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-7508, 101, 2483)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 8",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-9364, 101, 2483)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 9",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-10588, 101, 2487)))
 end
 })
 
 Tab:AddButton({
   Name = "Zone 10",
-  Callback = function()  
+  Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-12284, 101, 2486)))
 end
 })

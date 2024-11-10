@@ -66,3 +66,63 @@ Tab:AddButton({
   Callback = function()  game.Players.LocalPlayer.Character:PivotTo(CFrame.new(Vector3.new(-12284, 101, 2486)))
 end
 })
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
+
+Tab:AddButton({
+  Name = "Zone 1",
+  Callback = function()  
+end
+})
